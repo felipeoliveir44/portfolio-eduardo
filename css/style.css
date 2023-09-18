@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'futura';
-  src: url(../fontes/FuturaFamily/futuraboldfont.ttf);
+  src: url(../Fontes/FuturaFamily/futuraboldfont.ttf);
 }
 
 @font-face {
   font-family: 'proximanova';
-  src: url(../fontes/ProximaNova/proximanovareg.otf);
+  src: url(../Fontes/ProximaNova/proximanovareg.otf);
 }
 
 html {

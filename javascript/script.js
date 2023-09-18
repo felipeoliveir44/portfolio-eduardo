@@ -1,3 +1,21 @@
+window.sr = ScrollReveal({
+    reset: true
+});
+sr.reveal('.textoimg', {
+    duration: 2000
+});
+
+sr.reveal('.sobre-mim', {
+    duration: 2000
+});
+
+sr.reveal('h2', {
+    duration: 2000
+});
+
+sr.reveal('h4', {
+    duration: 2000
+});
 // Script menu // 
 $(document).ready(function () {
     $('.button').click(function () {
@@ -18,21 +36,3 @@ $(document).ready(function () {
 
 
 
-window.sr = ScrollReveal({
-    reset: true
-});
-sr.reveal('.textoimg', {
-    duration: 2000
-});
-
-sr.reveal('.sobre-mim', {
-    duration: 2000
-});
-
-sr.reveal('h2', {
-    duration: 2000
-});
-
-sr.reveal('h4', {
-    duration: 2000
-});
